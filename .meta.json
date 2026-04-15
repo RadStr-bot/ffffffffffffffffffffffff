@@ -5,12 +5,14 @@
     "http://dataspecer.com/resources/local/package"
   ],
   "userMetadata": {
-    "label": {},
+    "label": {
+      "cs": "aweba"
+    },
     "description": {}
   },
   "metadata": {
     "creationDate": "2026-04-15T00:13:54.645Z",
-    "modificationDate": "2026-04-15T00:13:54.812Z"
+    "modificationDate": "2026-04-15T00:15:22.208Z"
   },
   "_version": 1,
   "_exportVersion": 2,
